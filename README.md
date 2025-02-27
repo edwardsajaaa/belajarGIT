@@ -7,3 +7,11 @@
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
+## Daftar Perintah Git:
+- `git clone <repo-url>`
+- `git checkout -b <branch-name>`
+- `git add .`
+- `git commit -m "pesan commit"`
+- `git merge <branch-name>`
+- `git push origin main`
